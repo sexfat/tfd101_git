@@ -11,3 +11,7 @@ body {
 .m1 {
     width: 100%;
 }
+footer {
+    width: 100%;
+    background-color: rgb(188, 188, 188);
+}
